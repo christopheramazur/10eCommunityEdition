@@ -1,4 +1,6 @@
 This rules document is intended to be used as errata for the core rules provided by GW for 10th edition. Its purpose is to fix functional issues with the rules, while rules clarification will be in the Commentary.
+//TODO: Markup
+
 
 ###Core Concepts, pg.5:
 Add the following text to the end of the Units section on pg. 5:
