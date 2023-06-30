@@ -1,0 +1,55 @@
+This rules document is intended to be used as errata for the core rules provided by GW for 10th edition. Its purpose is to fix functional issues with the rules, while rules clarification will be in the Commentary.
+
+###Core Concepts, pg.5:
+Add the following text to the end of the Units section on pg. 5:
+"Models and Units in your Army are considered to be in play unless specified otherwise."
+
+###Core Concepts, pg.7:
+Add the following text to the end of the first paragraph of the Battlefield section:
+"Models and Units from your are considered to be in play if they are on the battlefield, regardless of other rules."
+
+###Command Phase, pg.11:
+Add a step in the command phase called the "Command Points Step". This replaces "COMMAND" as step 1. It reads as follows:
+
+"1. COMMAND POINTS
+In the Command Points step at the start of your Command phase, before doing anything else, both players gain 1CP. Command points are a strategic resource that you can spend during the battle to use Stratagems. You can find out more about Stratagems on pages 41-42. Command points gained in this step are not counted toward any limits on command points any player may gain per battle round."
+
+Command as step 2 then becomes the following:
+"2. COMMAND
+If you have any other rules that need to be resolved in the Command phase, you do so now before progressing to the Battle-shock step."
+
+###Command Phase, pg.12:
+Alter the text of the Destroyed section to the following:
+"Throughout a battle, models and units will become destroyed. When a model is destroyed it is removed from the battlefield and from play. When every model in a unit has been destroyed, that unit is destroyed. When a unit is destroyed it is removed from the battlefield and from play.
+
+Models and Units that are not in play can only use or be affected by rules that specify as such."
+
+Add the following conditions for determining which units are under half strength:
+- "Units with a starting strength of 1, consisting of a model with a Wounds characteristic of 2 that is missing any wounds."
+- "Units with a starting strength of 2, but which have a single model remaining which is missing any wounds."
+
+###Movement Phase, pg.13: 
+In the paragraph:
+"After you have finished moving that unit, select another unit from your army to move, and so on, until you have done so with all of your units. Once you have moved all of your units, progress to the Reinforcements step of your Movement phase." 
+
+After the sentence:
+"After you have finished moving that unit, select another unit from your army to move, and so on, until you have done so with all of your units."
+
+Add the following text: 
+"A unit may only be selected to move in this way once in each of your Movement phases."
+
+###Movement Phase, pg.16
+In the paragraph:
+"Reserves units always count as having made a Normal move in the turn they are set up on the battlefield, and so cannot move further during this phase. Otherwise, units set up in this way can act normally this turn (shoot, declare a charge, fight, etc.)."
+
+Change the sentence:
+"Reserves units always count as having made a Normal move in the turn they are set up on the battlefield, and so cannot move further during this phase."
+
+To:
+"Reserves units always count as having made a Normal move in the turn they are set up on the battlefield, including starting and finishing that move in the location where they were set up, and so cannot move further during this phase."
+
+###Shooting Phase, pg.19
+Change the first paragraph to read:
+"In your Shooting phase, if you have at least one eligible units from your army on the battlefield, you can select an eligible unit and shoot with it. Each unit can only be selected to shoot in this way once in each of your Shooting phases. Once all of the units you selected have shot, progress to your Charge phase."
+
+//TODO: Update shooting eligibility -> "has shot -> not eligible" without breaking any "shoot again" effects. 
