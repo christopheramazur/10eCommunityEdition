@@ -1,383 +1,340 @@
-T’AU EMPIRE
-ARMY RULE
-MARK THE PREY
-If your Army Faction is T'au Empire, at the start of your Shooting phase, each unit from your army with this ability (excluding Battle-shocked units) generates a number of Markerlight tokens equal to the number shown in its ability (e.g. a unit with the Mark the Prey 2 ability would generate 2 Markerlight tokens). 
-These Markerlight tokens can be contributed by the unit that generated them. It is recommended you place a suitable marker next to each unit with Markerlight Tokens to denote how many they have available. 
+#T’AU EMPIRE
+##ARMY RULE
+###MARK THE PREY
+If your Army Faction is T'au Empire, each unit from your army with this ability (excluding Battle-shocked units) gains a number of Markerlight tokens up to the number shown in its ability (e.g. a unit with the Mark the Prey: 2 ability would gain 2 Markerlight tokens). It is recommended you place suitable markers next to each unit to denote how many Markerlight tokens it has.
 
-At any point during the battle round, friendly units with this rule can contribute any of their remaining Markerlight tokens to any or all units they can see by deducting the contributed Markerlight tokens from their remaining Markerlight tokens.
+Each time a unit from your army with this rule selects targets to shoot you may have any number of other units from your army with this rule contribute Markerlight tokens to Guide the shooting unit against a single one of its targets. If you do, until that shooting is resolved, the contributing units are Observers, the shooting unit is Guided, and the target chosen is Marked. Observers that contribute Markerlight tokens are not eligible to shoot for the purposes Mission rules only (e.g. Primary and Secondary Mission cards, and Crusade rules that require a unit to be eligible to shoot).
 
-The sum of these contributed Markerlight tokens contributed to any unit becomes that unit's Markerlight Pool.
+To contribute Markerlight tokens, an Observer unit must have one or more Markerlight tokens and the Marked unit must be visible to them. If so you may remove any number of Markerlight tokens from each of those Observers, to a minimum of 0. Those Markerlight tokens are now contributed to the Market unit, and the combined total of those contributed Markerlight tokens is the Marked unit's Markerlight token pool. 
 
-All Markerlight Tokens are removed at the start of your Shooting phase, before new ones are generated.
+The Guided unit can spend Markerlight tokens from the Marked unit's Markerlight token pool to apply Mark the Prey effects. To apply a Mark the Prey effect, subtract its Cost in Markerlight tokens from the Marked unit's Markerlight pool. You may do this once for each Mark the Prey effect. If the Cost of a Mark the Prey effect in Markerlight Tokens exceeds the remaining Markerlight tokens in the Marked unit's Markerlight Pool, it cannot be applied. 
 
-When a unit with this rule selects a target with one or more Markerlight Tokens in its Markerlight Pool it can select any number of Mark Targets effects, one at a time, to apply to that target. 
-If it does so, it becomes the Guided unit and the target becomes the Marked unit for the purposes of those Mark Targets effects.
-If the Cost of the Mark Targets effect in Markerlight Tokens exceeds the Marked unit's Markerlight Pool, that Mark Targets effect cannot be chosen by the Guided unit. 
-Each time the Guided unit selects a Mark Targets effect, it subtracts the Cost in Markerlight tokens for that effect from that Marked unit's Markerlight pool. 
+Mark the Prey effects only apply to the Guided unit and Marked unit, and only while the Guided unit is resolving attacks against the Marked unit. Once the Guided unit has finished resolving its attacks against the Marked unit they cease being the Guided unit and Marked unit for those effects.
 
-Mark Targets effects apply while the Guided unit is shooting the Marked unit. Once the Guided unit has finished shooting against the Marked unit, they cease being the Guided unit and Marked unit.
+####Mark the Prey Effects
 
-Strip Cover
+#####Strip Cover
 Cost: 1 Markerlight Token
-The Marked unit loses and cannot gain the benefits of cover against the Guided unit's ranged attacks.
+The Marked unit loses and cannot gain the benefits of cover against the Guided unit's attacks.
 
-Fire for Suppression
-Cost: 1 Markerlight Tokens
-If the Guided unit scores one or more hits against the Marked unit, the Marked unit must take a Battle Shock test. 
-If the Guided unit scores one or more unsaved wounds against the Marked unit, subtract 1 from the roll for that Battle Shock test.
+#####Fire for Suppression
+Cost: 2 Markerlight Tokens
+Just after the Guided unit finishes its ranged attacks against the Marked unit, if one or more of those attacks scored a Hit, the Marked unit must take a Battle Shock test. If the Marked unit suffered one or more unsaved wounds from those attacks, subtract 1 from the roll for that Battle Shock test as well.
 
-Precision Telemetry
-Cost: 1 or 3 Markerlight Tokens
-Increase the Ballistics skill by 1 for the Guided unit's ranged weapons against the Marked unit. 
-If 3 Markerlight Tokens were spent for this Mark Targets effect, the Guided unit may also ignore any or all modifiers to hit for its ranged attacks against the Marked Target.
+#####Precision Telemetry
+Cost: 2 or 3 Markerlight Tokens
+Increase the Ballistics skill by 1 for the Guided unit's ranged weapons when making attacks against the Marked unit. 
+If 3 Markerlight Tokens were spent for this Mark the Prey effect, the Marked unit loses and cannot gain the benefits of Stealth against the Guided unit's attacks as well.
 
-Coordinated Onslaught
+#####Fusillade
 Cost: 2 or 4 Markerlight Tokens
-The Guided unit's ranged weapons gain Sustained Hits 1 against the Marked unit. 
-If 4 Markerlight Tokens were spent for this Mark Targets effect, each time the Guided unit makes a ranged attack against the Marked unit, it may re-roll the hit roll.
-//(CM): Unsure if to make this SH2 instead
+Each time the Guided unit makes a ranged attack against the Marked unit, it may re-roll a hit roll of 1.
+If 4 Markerlight Tokens were spent for this Mark the Prey effect, the Guided unit's ranged weapons gain [SUSTAINED HITS 1] when making attacks against the Marked unit as well. 
 
-Structural Analysis
+#####Structural Analysis
 Cost: 2 or 4 Markerlight Tokens
-The Guided unit's ranged weapons gain Lethal Hits against the Marked Target. 
-If 4 Markerlight Tokens were spent for this Mark Targets effect, each time the Guided unit makes a ranged attack against the Marked unit, it may re-roll the wound roll.
-//(CM): Unsure if to make this ? double lethal ? instead
+Each time the Guided unit makes a ranged attack against the Marked unit, it may re-roll a wound roll of 1.
+If 4 Markerlight Tokens were spent for this Mark the Prey effect, the Guided unit's ranged weapons gain [LETHAL HITS] when making attacks against the Marked unit as well
 
-T’AU EMPIRE – PHILOSOPHIES OF WAR
-DETACHMENT RULE
+#####Target Priority Override
+Cost: 3 or 5 Markerlight Tokens
+The Guided unit's ranged attacks hit on unmodified Hit rolls of 4+ during Overwatch against the Marked unit.
+If 5 Markerlight Tokens were spent for this Mark the Prey effect, the Guided unit's ranged weapons gain [PISTOL] until it finishes its attacks against the Marked unit as well.
+
+
+##T’AU EMPIRE – PHILOSOPHIES OF WAR
+###DETACHMENT RULE
 If your Army Faction is T’au Empire, you can use this PHILOSOPHIES OF WAR Detachment rule.
 
-PHILOSOPHIES OF WAR
-At the start of the first battle round, before the start of the first player turn, you may select up to 3 units from your army and redeploy them. When doing so, those units can be placed into Strategic Reserves, regardless of how
-many units are already in Strategic Reserves.
+####PHILOSOPHIES OF WAR
+At the start of the first battle round, before the start of the first player turn, you may select up to 3 units from your army and redeploy them. When doing so those units can be placed into Strategic Reserve, ignoring normal limitations. 
 
-Strategic Reserves units from your army may be set up wholly within 6" of any battlefield edge including your opponent's when they are deployed, and may be set up from Strategic Reserves in your opponent's deployment zone. 
+Reserves units from your army cannot be destroyed while they are in reserves until the end of the fifth Battle Round. Beginning from the fourth Battle Round, reserves units from your army that are set up wholly within 6" of a battlefield edge ignore the normal restrictions on how close they may be set up to enemy units, and can be set up wholly outside of 3" from enemy units instead. 
 
-If a unit from your army is deployed wholly within 6" of a battlefield edge, it may also be set up wholly outside of 3" of your opponent's units instead of any other restrictions on distance from enemy units.
-
-Units from your army that are on the battlefield and that were not redeployed gain Scouts 6" and their ranged weapons gain Assault for the duration of the first and second Battle Rounds.
+Units from your army that are on the battlefield at the beginning of the first Battle Round gain Scouts 6" and their weapons gain the [ASSAULT] ability until the end of the first turn in which you deploy a reserves unit.
 
 
-T’AU EMPIRE – PHILOSOPHIES OF WAR
-STRATAGEMS
-If you are using the Kauyon Detachment rule, you can use these Kauyon Stratagems.
-STIMM INJECTORS
-PHILOSOPHIES OF WAR – WARGEAR STRATAGEM
-This system injects the battlesuit pilot with
-a measured dose of chemical stimulants
-intended to temporarily accelerate their
-physical aptitude and pain tolerances.
-WHEN: Fight phase or your opponent’s
-Shooting phase, just after an enemy unit
-has selected its targets.
-TARGET: One T’au Empire Battlesuit
-unit from your army that was selected as
-the target of one or more of the attacking
-unit’s attacks.
-EFFECT: Until the end of the phase,
-models in your unit have the
-Feel No Pain 6+ ability.
-STRIKE AND FADE
-PHILOSOPHIES OF WAR – STRATEGIC PLOY STRATAGEM
-T’au are experts at harrying and
-outmanoeuvring their foes, bleeding them
-with accurate fire before fading away into
-the shadows and luring the foe into a trap.
+##T’AU EMPIRE – PHILOSOPHIES OF WAR
+###STRATAGEMS
+If you are using the PHILOSOPHIES OF WAR Detachment rule, you can use these PHILOSOPHIES OF WAR Stratagems.
+
+####STIMULANT INJECTORS - 1CP
+#####PHILOSOPHIES OF WAR – WARGEAR STRATAGEM
+WHEN: Just after a Battlesuit unit from your army suffers one or more unsaved wounds.
+TARGET: That T’au Empire Battlesuit unit.
+EFFECT: Until the end of the phase, models in the target unit with a Pilot Support System gain Feel No Pain 5+.
+
+####STRIKE AND FADE - 1CP/2CP
+#####PHILOSOPHIES OF WAR – BATTLE TACTIC STRATAGEM
 WHEN: Your Shooting phase.
-TARGET: One T’au Empire Battlesuit
-unit from your army that can Fly whose
-attacks have been resolved this phase.
-EFFECT: If your unit is not within
-Engagement Range of any enemy units, it
-can make a Normal move. If it does, your
-unit cannot declare a charge this turn.
-COORDINATE TO ENGAGE
-PHILOSOPHIES OF WAR – BATTLE TACTIC STRATAGEM
-T’au combined arms groups are called
-Hunter Cadres for good reason. Working in
-close coordination, they hunt and destroy
-the most dangerous enemy targets.
-WHEN: Your Shooting phase.
-TARGET: One T’au Empire unit from your
-army that has just been selected as an
-Observer unit (see For the Greater Good).
-EFFECT: Until the end of the phase, each
-time a model in your unit makes an attack
-that targets their Spotted unit, improve
-the Ballistic Skill characteristic of that
-attack by 1 and, if your unit has the
-Markerlight keyword, that attack has
-the [IGNORES COVER] ability.
-POINT-BLANK AMBUSH
-PHILOSOPHIES OF WAR – BATTLE TACTIC STRATAGEM
-The Kauyon teaches to lure the enemy
-into deadly point-blank ambushes.
-WHEN: Your Shooting phase.
-TARGET: One T’au Empire unit from your
-army that has not been selected to shoot
-this phase.
-EFFECT: Until the end of the phase, each
-time a model in your unit makes a ranged
-attack that targets an enemy unit within
-9", improve the Armour Penetration
-characteristic of that attack by 1.
-RESTRICTIONS: You cannot use this
-Stratagem during the first or second
-battle rounds.
-1CP
-2CP
-1CP
-1CP
-T’AU EMPIRE – PHILOSOPHIES OF WAR
-STRATAGEMS
-If you are using the Kauyon Detachment rule, you can use these Kauyon Stratagems.
-PHOTON GRENADES
-PHILOSOPHIES OF WAR – WARGEAR STRATAGEM
-Hurling a volley of photon grenades, the
-T’au leave their enemies dazzled and
-disorientated, unable to close the distance
-into combat at a crucial moment.
-WHEN: Your opponent’s Charge phase,
-just after an enemy unit has declared
-a charge.
-TARGET: One T’au Empire Grenades unit
-from your army that was selected as one
-of the targets of that charge.
-EFFECT:That enemy unit must
-immediately take a Battle-shock test, and
-until the end of the phase, subtract 2 from
-Charge rolls made for that enemy unit.
-COMBAT EMBARKATION
-PHILOSOPHIES OF WAR – STRATEGIC PLOY STRATAGEM
-Those who act as the lure in the
-Kauyon must be ready to make a hasty
-withdrawal once the enemy closes into
-killing range, lest they be trapped.
-WHEN: Your opponent’s Charge phase,
-just after an enemy unit has declared
-a charge.
-TARGET: One T’au Empire Infantry unit
-from your army that was selected as one
-of the targets of that charge, and one
-friendly Transport.
-EFFECT: Your unit can embark within that
-Transport. If it does, your opponent can
-select new targets for that charge.
-RESTRICTIONS: Every model in your T’au
-Empire Infantry unit must be within
-3" of that Transport and there must be
-sufficient transport capacity to embark
-the entire unit.
-2CP 1 1CP
-If you are using the Kauyon Detachment rule, you can use these Kauyon Enhancements.
-EXEMPLAR OF THE PHILOSOPHIES OF WAR
-Long meditation upon the tenets of the Patient Hunter
-has seen this warrior master the application of this
-cunning ambush strategy. When they take to the
-battlefield, they embody the teachings of the Kauyon,
-much to the dismay of their luckless prey.
-T’au Empire model only (excluding Kroot Shaper
-models). While the bearer is leading a unit, that unit’s
-Kauyon Detachment rule takes effect from the second
-battle round onwards instead of the third.
-PRECISION OF THE PATIENT HUNTER
-This warrior prowls the battlefield like a high-tech
-predator, stalking and assessing their quarry before
-they strike. When they do launch their assault,
-their every shot and blow is informed by careful
-observations, perfectly aimed where they will do the
-greatest harm.
-T’au Empire model only. Each time the bearer makes
-a ranged attack, add 1 to the Hit roll. From the third
-battle round onwards, add 1 to the Wound roll as well.
-PURETIDE ENGRAM NEUROCHIP
-Commander Puretide was undoubtedly the most
-gifted T’au war leader of all time. The T’au were
-unwilling to lose his tactical and strategic brilliance,
-and upon his death, his mind was scanned and his
-accumulated memories committed to a holostorage
-personality unit on his birth world of Dal’yth. A sliver
-of that genius has been crafted into a neurochip.
-When surgically implanted into the brain of a Fire
-Caste Commander, the bearer can access much of
-the wisdom of Puretide himself, drawing upon a great
-reservoir of tactical acumen.
-T’au Empire model only (excluding Kroot Shaper
-models). Once per turn, you can use a Stratagem on
-the bearer’s unit, even if you have already used that
-Stratagem on a different unit this phase.
-THROUGH UNITY, DEVASTATION
-Having studied every nuance of the art of applied
-mass-firepower, this warrior has mastered its
-deployment. Under their calm tutelage and stern
-gaze, warriors of the Fire Caste maximise every shot
-they fire, creating a blizzard of deadly-accurate
-energy that can pick apart even the most heavily
-armoured targets.
-T’au Empire model only (excluding Kroot Shaper
-models). While this model is leading a unit, each
-time that unit is an Observer unit, until the end of
-the phase, ranged weapons equipped by models in
-their Guided unit have the [LETHAL HITS] ability while
-targeting their Spotted unit.
-T’AU EMPIRE – PHILOSOPHIES OF WAR
-ENHANCEMENTS
+TARGET: One T’au Empire Battlesuit unit from your army that can Fly whose attacks have been resolved this phase.
+EFFECT: If that unit is not within Engagement Range of any enemy units, it can make a Normal move. If it does, that unit cannot declare a charge this turn. This Strategem costs 1CP if it targets a unit with 3 or fewer models. Otherwise, it costs 2CP.
 
-T’AU EMPIRE
-DRONES
-GUARDIAN DRONE
-Each time a model makes a ranged attack that
-targets the bearer’s unit, subtract 1 from the
-Wound roll.
-SHIELD DRONE
-Add 1 to the bearer’s Wounds characteristic.
-MARKER DRONE
-The bearer’s unit has the Markerlight keyword
-and can act as an Observer unit for another unit
-even if it Advanced this turn.
-GUN DRONE
- The bearer is equipped with the following ranged weapon:
-RANGED WEAPON RANGE A BS S AP D
-Twin pulse carbine
-[ASSAULT, TWIN-LINKED]
-20" 2 5+ 5 0 1
-MISSILE DRONE
+####KILLING BLOW - 1CP
+#####PHILOSOPHIES OF WAR – STRATEGIC PLOY STRATAGEM
+WHEN: The start of your Movement phase
+TARGET: One or two units from your army with the Scouts core rule.
+EFFECT: Each time one of those units Advances this turn, do not make an Advance roll for it. Instead, until the end of the phase, add 6" to the Move characteristic of models in that unit.
+
+####PATIENT HUNTERS - 1CP
+#####PHILOSOPHIES OF WAR – STRATEGIC PLOY STRATAGEM
+WHEN: The Reinforcements step of your Movement phase.
+TARGET: One T’au Empire Infantry unit from your army that is in Reserves.
+Effect: Instead of setting up normally, that unit may be set up wholly within 9" and wholly outside of 3" of one or more enemy units within range of an Objective, respecting all other range restrictions on its deployment as normal.
+RESTRICTIONS: Until the end of the turn, that unit may only select units within range of Objectives as targets for their attacks, and may not declare a charge.
+
+####REPEL THE ENEMY - 1CP
+#####PHILOSOPHIES OF WAR – WARGEAR STRATAGEM
+WHEN: Your opponent’s Charge phase, just after an enemy unit has declared a charge.
+TARGET: One T’au Empire Grenades or Battlesuit unit from your army that was selected as one of the targets of that charge.
+EFFECT: That enemy unit must immediately take a Battle-shock test. Subtract 2 from Charge rolls made for that enemy unit until the end of the phase.
+
+####KEEP FIRING! KEEP FIRING! - 2CP
+#####PHILOSOPHIES OF WAR – BATTLE TACTIC STRATAGEM
+WHEN: Your opponent’s Charge phase, just after a T'au Empire unit with Mark the Prey from your army has finished its attacks against a charging unit at the start of its move as part of the Fire Overwatch Stratagem.
+TARGET: One T'au Empire unit from your army with Mark the Prey that can see and is within 24" of that charging unit.
+EFFECT: The selected unit shoots the charging unit. 
+
+##T'AU EMPIRE - PHILOSOPHIES OF WAR
+### ENHANCEMENTS
+If you are using the PHILOSOPHIES OF WAR Detachment rule, you can use these PHILOSOPHIES OF WAR Enhancements.
+
+####EXEMPLAR OF THE KAUYON
+T’au Empire model only (excluding Kroot Shaper models). 
+At the end of each of your opponent's turns, if the bearer's unit is wholly within 9" of a battlefield edge you may place it into Strategic Reserve. You may only do this once per battlefield edge.
+
+####EXEMPLAR OF THE MONT'KA
+T’au Empire model only (excluding Kroot Shaper models). 
+Add 1 to the OC of models in the bearer's unit until the end of your next Command phase whenever the bearer ends an Advance move in range of an Objective that one or more enemy units is also in range of. 
+
+####PURETIDE ENGRAM NEUROCHIP
+T’au Empire model only (excluding Kroot Shaper models). 
+Each time you would use a Stratagem that targets one or more units within 6" of the bearer, roll a D6. On a result of 4+ you may subtract 1 from that Stratagem's CP cost to a minimum of 0.
+
+####PRECISION OF THE PATIENT HUNTER
+T’au Empire model only (excluding Kroot Shaper models). 
+The bearer's weapons gain Precision. If any of the bearer's weapons already had Precision, attacks with those weapons gain +1 to Hit rolls and +1 to Wound rolls against Character units.
+
+##T’AU EMPIRE
+###DRONES
+
+####GUARDIAN DRONE
+Each time a model makes a ranged attack that targets the bearer’s unit, subtract 1 from the Wound roll.
+
+####GUN DRONE
 The bearer is equipped with the following ranged weapon:
-RANGED WEAPON RANGE A BS S AP D
-Missile pod 30" 2 5+ 7 -2 2
-If you have upgraded a model to have a drone, place a Drone token next to your model as a reminder. These do
-not count as models for any rules purposes.
+RANGED WEAPON       RANGE   A   BS  S   AP  D   RULES
+Twin pulse carbine  24"     2   4+  5   0   1   [ASSAULT, TWIN-LINKED]
 
-COMMANDER SHADOWSUN
-KEYWORDS: Infantry, Fly, Character, Epic Hero, Battlesuit,
-Commander Shadowsun
-RANGED WEAPONS RANGE A BS S AP D
-Flechette launcher 18" 5 2+ 3 0 1
-High-energy fusion blaster [MELTA 2] 18" 1 2+ 10 -4 D6
-Light missile pod 24" 2 2+ 7 0 2
-Pulse pistol [PISTOL] 12" 1 3+ 5 0 1
-MELEE WEAPONS RANGE A WS S AP D
-Battlesuit fists Melee 3 4+ 5 0 1
-FACTION KEYWORDS:
-T’au Empire
+####MARKER DRONE
+Add 1 to the Mark the Prey value of the bearer's unit (e.g. a Unit with Mark the Prey 2 has a model equipped with 2 Marker Drones -- its Mark the Prey value becomes 4.)
+
+####MISSILE DRONE
+The bearer is equipped with the following ranged weapon:
+RANGED WEAPON       RANGE   A   BS  S   AP  D   RULES
+Missile pod         36"     2   4+  7   -1  2   [HEAVY]
+
+####SNIPER DRONE
+The bearer is equipped with the following ranged weapon:
+RANGED WEAPON               RANGE   A   BS  S   AP  D   RULES
+Drone-mounted rail rifle    36"     1   4+  10  -3  3   [HEAVY, PRECISION, RAIL 1]
+
+####SHIELD DRONE
+Once per battle, after an attack has been allocated to this model, you can change the Damage characteristic of that attack to 0.
+
+If you have upgraded a model to have drones, it may help you to place Drone tokens next to your model as a reminder. Such tokens do not interact with the game for any rules purposes.
+
+
+##T'AU EMPIRE
+###ARMOURY
+
+####RANGED WEAPONS          
+NAME                        RANGE   A       BS  S   AP  D       RULES
+
+Accelerator burst cannon    18"     6       4+  6   -1  1       [SUSTAINED HITS 2]
+
+Burst cannon                18"     3       4+  5   0   1       [SUSTAINED HITS 2]
+
+Light rail Rifle            48"     1       4+  10  -3  3       [HEAVY, RAIL 1]
+
+Heavy rail rifle            60"     1       4+  12  -4  D3+3    [HEAVY, RAIL 2]
+
+High-yield missile pod      36"     6       4+  7   -1  2       [HEAVY]
+
+Ion cannon - Before selecting targets for this weapon, select one of its profiles to make attacks with.
+- Cyclic                    60"     3D3+3   4+  4   -3  2       [BLAST, ION]
+- Phased                    60"     4       4+  4   -3  6       [ION]
+
+Pulse blaster               12"     2       3+  6   -1  1       
+
+Pulse carbine               24"     2       4+  5   0   1       [ASSAULT]
+
+Pulse pistol                12"     1       4+  5   0   1       [PISTOL]
+
+Pulse rifle                 36"     2       4+  5   -1  1       [RAPID FIRE 1]
+
+Railgun                     72"     1       4+  20  -5  D6+6    [HEAVY, RAIL 5]
+
+Seeker missile              72"     1       4+  14  -3  D6+1    [HEAVY, ONE-SHOT]
+
+Seeker missile rack         72"     3       4+  14  -3  D6+1    [HEAVY, MISSILE BARRAGE]
+
+Smart missile system        36"     3       4+  6   -1  1       [INDIRECT FIRE]
+
+ION: When rolling to Wound for an attack with this weapon, compare its Strength to the value of the Sv characteristic of models in the target unit instead of their Toughness. If models in the target unit have different Sv characteristics, use the worst one. 
+
+MISSILE BARRAGE: At the end of each turn in which no attacks were made with this weapon, the bearer gains one new Seeker Missile.
+
+RAIL X: If a successful saving throw is made against an attack with this weapon, worsen the damage of that attack to X unless another ability would worsen it further, and that saving throw is not successful instead.
+
+####MELEE WEAPONS
+NAME                        RANGE   A       BS  S   AP  D       RULES
+Battlesuit fists            Melee   3       5+  5   0   1
+Commander fists             Melee   4       4+  5   0   1
+
+Some models may be equipped with "Twin" variants of these weapons. Such weapons use the appropriately named profile above but also have the [TWIN-LINKED] ability.
+
+####Fusion Munitions System         
+NAME                        RANGE   A       BS  S   AP  D       RULES
+Fusion Munitions System - Before selecting targets for this weapon, select one of its profiles to make attacks with.
+- Disrupted                 18"     2       4+  6   -2  1       [MELTA 1]
+- Synchronized              9"      1       4+  12  -4  D3      [MELTA 2]
+MELEE WEAPONS               RANGE   A       BS  S   AP  D       RULES
+Fusion Munitions System - Before selecting targets for this weapon, select one of its profiles to make attacks with.
+- Disrupted                 Melee   4       5+  6   -1  2
+- Synchronized              Melee   2       5+  12  -4  D3+2
+
+####Ion Munitions System
+RANGED WEAPONS   
+NAME                        RANGE   A       BS  S   AP  D       RULES
+Ion Munitions System - Before selecting targets for this weapon, select one of its profiles to make attacks with.
+- Cyclic                    18"     3       4+  4   -2  1       [ION]
+- Phased                    18"     1       4+  4   -2  3       [ION]
+
+
+####Plasma Munitions System
+RANGED WEAPONS    
+NAME                        RANGE   A       BS  S   AP  D       RULES
+Plasma Munitions System - Before selecting targets for this weapon, select one of its profiles to make attacks with.
+- Incinerator               12"     D3+3    -   4   0   1       [IGNORES COVER, TORRENT]
+- Burstfire                 18"     4       4+  6   0   1       [SUSTAINED HITS 2]
+- Solid sabot               24"     1       4+  8   -3  3
+
+####Warhead Munitions System 
+RANGED WEAPONS      
+NAME                        RANGE   A       BS  S   AP  D       RULES
+Warhead Munitions System - Before selecting targets for this weapon, select one of its profiles to make attacks with.
+- ABFP                      24"     D6      4+  4   0   1       [BLAST, INDIRECT FIRE]
+- Missile pod               36"     2       4+  7   -1  2       [HEAVY]
+
+####Support Systems
+Battlesuit Support System: The bearer’s unit is eligible to shoot in a turn in which it Fell Back, but when doing so only models equipped with this wargear can make ranged attacks.
+
+Pilot Support System: When the bearer is destroyed, before removing it from the battlefield, roll one D6 and add 1 to the result for every enemy model within 3" of the bearer. On a 3+, enemy units within 3" of the bearer each suffer 1 mortal wound. On a 6+, they each suffer 2 mortal wounds instead.
+
+Shield Generator: The bearer has a 4+ invulnerable save. 
+
+Weapon Support System: The bearer's unit may contribute one of its own Markerlight tokens to the Mark
+
+
+##UNIT DATA SHEETS 
+
+COMMANDER SHADOWSUN - 150
+INVULNERABLE SAVE 5+
+M   T   SV  W   LD  OC
+10" 4   3+  7   6+  2
+KEYWORDS: Infantry, Fly, Character, Epic Hero, Battlesuit, Commander Shadowsun
+FACTION KEYWORDS: T’au Empire
+
 ABILITIES
 CORE: Infiltrators, Lone Operative, Stealth
-FACTION: For the Greater Good
-Agile Combatant: This model is eligible to shoot in a turn in
-which it Fell Back.
-Hero of the Empire (Aura): While a friendly T’au Empire
-unit is within 6" of this model, each time a model in that unit
-makes a ranged attack, re-roll a Hit roll of 1.
- WARGEAR ABILITIES
-Advanced Guardian Drone: Each time a ranged attack targets
-the bearer, subtract 1 from the Wound roll.
-Command-link Drone (Aura): While a friendly T’au Empire
-unit is within 6" of the bearer, each time you select that unit as
-the target of a Stratagem, roll one D6: on a 5+, you gain 1CP.
-INVULNERABLE SAVE 5+
-M T SV W LD OC
-10" 4 3+ 6 6+ 1
+FACTION: Mark the Prey 0
+
+SUPREME COMMANDER: If this model is in your army, it must be your Warlord.
+
+Agile Combatant: This model is eligible to shoot and declare a charge in a turn in which it Fell Back.
+
+Hero of the Empire (Aura): While a friendly T’au Empire unit is within 6" of this model, each time a model in that unit makes a ranged attack, re-roll a Hit roll of 1.
+
+WARGEAR ABILITIES
+Advanced Guardian Drone: Each time a ranged attack targets the bearer, subtract 1 from the Wound roll and worsen the AP characteristic of that attack by 1.
+
+Command-link Drone (Aura): Once per turn, if a friendly T'au Empire unit within 6" would become Battle-shocked, it doesn't. You cannot use this ability while this unit is Battle-shocked.
+
+RANGED WEAPONS      RANGE   A   BS  S   AP  D   RULES
+Flechette launcher  18"     5   2+  3   0   1
+HE fusion blaster   24"     1   2+  10  -4  D6 [ANTI-VEHICLE 4+, MELTA 2]
+Light missile pod   24"     2   2+  7   0   2  [BLAST]
+Pulse pistol        12"     1   3+  5   0   1  [PISTOL]
+MELEE WEAPONS
+Battlesuit fists    Melee   3   4+  5   0   1
+
 WARGEAR OPTIONS
 ■ None
+
 UNIT COMPOSITION
-■ 1 Commander Shadowsun – Epic Hero
-This model is equipped with: flechette
-launcher; 2 high-energy fusion blasters; light
-missile pod; pulse pistol; battlesuit fists;
-advanced guardian drone; command-link drone.
-SUPREME COMMANDER
-If this model is in your army, it must be your Warlord.
-COMMANDER SHADOWSUN
-Accompanied by advanced shield and command drones, Commander
-O’Shaserra surges dynamically into battle. She is the master of the
-Kauyon, laying cunning ambushes for her enemies then striking with
-merciless fury. O’Shaserra spearheads these attacks from the front,
-and every shot from her fusion blasters heralds another fallen foe.
-KEYWORDS: Infantry, Fly, Character, Epic Hero, Battlesuit,
-Commander Shadowsun
-FACTION KEYWORDS:
-T’au Empire
-COMMANDER FARSIGHT
-KEYWORDS: Vehicle, Walker, Fly, Character, Epic Hero, Battlesuit,
-Commander Farsight
-RANGED WEAPONS RANGE A BS S AP D
-High-intensity plasma rifle 24" 2 2+ 8 -3 3
-MELEE WEAPONS RANGE A WS S AP D
-Dawn Blade – strike Melee 4 2+ 10 -2 3
-Dawn Blade – sweep Melee 8 2+ 6 -1 1
-FACTION KEYWORDS:
-T’au Empire
+■ 1 Commander Shadowsun – Epic Hero. This model is equipped with: 
+- flechette launcher
+- 2 HE fusion blasters
+- light missile pod
+- pulse pistol
+- battlesuit fists
+- advanced guardian drone
+- command-link drone
+
+COMMANDER FARSIGHT - 175
+INVULNERABLE SAVE 4+
+M   T   SV  W   LD  OC
+10" 5   3+  7   6+  2
+KEYWORDS: Vehicle, Walker, Fly, Character, Epic Hero, Battlesuit, Commander Farsight
+FACTION KEYWORDS: T’au Empire
+
 ABILITIES
 CORE: Deep Strike, Leader
-FACTION: For the Greater Good
-Way of the Short Blade: While this model is leading a unit,
-each time a model in that unit makes an attack that targets an
-enemy unit within 9", add 1 to the Wound roll.
-Aggressive Offensive: Once per battle, when this model is
-selected to fight, it can use this ability. If it does, until the end
-of the phase, each time it makes an attack, you can re-roll the
-Hit roll and you can re-roll the Wound roll.
-INVULNERABLE SAVE 4+
-M T SV W LD OC
-10" 5 3+ 6 6+ 2
-Before selecting targets for this weapon, select one of its profiles to make attacks with.
+FACTION: Mark the Prey 0
+
+Way of the Short Blade: Each time a model in this unit makes an attack that targets an enemy unit within 9", add 1 to the Wound roll. 
+Aggressive Offensive: When this model is selected to fight, each time it makes an attack you can re-roll the Hit roll and you can re-roll the Wound roll.
+
+WARGEAR ABILITIES
+Dawn Blade: This model regains a lost wound each time an enemy model is destroyed by an attack from its Dawn Blade.
+
+RANGED WEAPONS      RANGE   A   BS  S   AP  D   RULES
+HI Plasma Rifle     24"     2   2+  8   2   3   [RAPID FIRE 2]
+MELEE WEAPONS
+Dawn Blade - Before selecting targets for this weapon, select one of its profiles to make attacks with.
+Dawn Blade - Strike Melee   4   2+  10  -2  3
+Dawn Blade - Sweep  Melee   8   2   6   -1  1
+
+
 WARGEAR OPTIONS
 ■ None
 UNIT COMPOSITION
 ■ 1 Commander Farsight – Epic Hero
-This model is equipped with: high-intensity plasma rifle;
+This model is equipped with: HI plasma rifle;
 Dawn Blade.
 LEADER
 This model can be attached to the following unit:
 ■ Crisis Battlesuits
-COMMANDER FARSIGHT
-Aggressive and rebellious, Commander O’Shova is the master of the
-Mont’ka, the Killing Blow. Piloting his crimson battlesuit he carves a
-bloody path into the enemy, leading his separatist Fire Caste forces
-and wielding the enigmatic Dawn Blade with such strength and skill
-that no foe can stand against him.
-KEYWORDS: Vehicle, Walker, Fly, Character, Epic Hero, Battlesuit,
-Commander Farsight
-FACTION KEYWORDS:
-T’au Empire
-COMMANDER IN CRISIS BATTLESUIT
-KEYWORDS: Vehicle, Walker, Fly, Character, Battlesuit,
-Commander in Crisis Battlesuit
-RANGED WEAPONS RANGE A BS S AP D
-Airbursting fragmentation projector
-[BLAST, INDIRECT FIRE]
-24" D6 3+ 3 0 1
-Burst cannon 18" 4 3+ 5 0 1
-Cyclic ion blaster – standard 18" 3 3+ 7 -1 1
-Cyclic ion blaster – overcharge [HAZARDOUS] 18" 3 3+ 8 -2 2
-Fusion blaster [MELTA 2] 12" 1 3+ 9 -4 D6
-Missile pod 30" 2 3+ 7 -1 2
-Plasma rifle 24" 1 3+ 8 -3 3
-T’au flamer [IGNORES COVER, TORRENT] 12" D6 N/A 4 0 1
-MELEE WEAPONS RANGE A WS S AP D
-Battlesuit fists Melee 3 4+ 5 0 1
-FACTION KEYWORDS:
-T’au Empire
-ABILITIES
+
+
+COMMANDER IN CRISIS BATTLESUIT - 100
+M   T   SV  W   LD  OC
+10" 5   3+  4   7+  2
+KEYWORDS: Vehicle, Walker, Fly, Character, Battlesuit, Commander in Crisis Battlesuit
+FACTION KEYWORDS: T’au Empire
+
+ABILITIES 
+
 CORE: Deep Strike, Leader
-FACTION: For the Greater Good
-Crisis Commander: While this model is leading a unit, each
-time a model in that unit makes a ranged attack, re-roll a Hit
-roll of 1.
-WARGEAR ABILITIES
-Battlesuit Support System: The bearer’s unit is eligible to
-shoot in a turn in which it Fell Back, but when doing so only
-models equipped with this wargear can make ranged attacks.
-Shield Generator: The bearer has a 4+ invulnerable save.
-Weapon Support System: Each time the bearer makes a
-ranged attack, you can ignore any or all modifiers to the
-Hit roll.
-M T SV W LD OC
-10" 5 3+ 5 7+ 2
-Before selecting targets for this weapon, select one of its profiles to make attacks with.
+FACTION: Mark the Prey 0
+Crisis Commander: Each time a model in this unit makes an attack, re-roll a Hit roll of 1.
+Fire Caste's Finest: This model may attack twice with one of its weapons each time it shoots.
+
+
 WARGEAR OPTIONS
 ■ This model’s burst cannon can be replaced with
-one of the following:
+one of the following***:
 ◦ 1 airbursting fragmentation projector*
 ◦ 1 battlesuit support system*
 ◦ 1 cyclic ion blaster
@@ -385,6 +342,7 @@ one of the following:
 ◦ 1 missile pod
 ◦ 1 plasma rifle
 ◦ 1 shield generator*
+◦ 1 stimm injector*
 ◦ 1 T’au flamer
 ◦ 1 weapon support system*
 ■ This model can be equipped with up to two of
@@ -392,7 +350,7 @@ the following, and can take duplicates:
 ◦ 1 gun drone**
 ◦ 1 marker drone**
 ◦ 1 shield drone**
-■ This model can be equipped with up to three of
+■ This model can be equipped with up to two of
 the following, and can take duplicates:
 ◦ 1 airbursting fragmentation projector*
 ◦ 1 battlesuit support system*
@@ -402,52 +360,35 @@ the following, and can take duplicates:
 ◦ 1 missile pod
 ◦ 1 plasma rifle
 ◦ 1 shield generator*
+◦ 1 stimm injector*
 ◦ 1 T’au flamer
 ◦ 1 weapon support system*
-* This model cannot have duplicates of these pieces
-of wargear.
-** This drone’s rules can be found on the T’au Empire
-Drones card.
+* This model cannot have duplicates of these pieces of wargear.
+** This drone’s rules can be found on the T’au Empire Drones card.
+*** The profiles for these weapons can be found in the armoury at the end of the index.
+
 UNIT COMPOSITION
 ■ 1 Commander in Crisis Battlesuit
 This model is equipped with: burst cannon; battlesuit fists.
 LEADER
 This model can be attached to the following unit:
 ■ Crisis Battlesuits
-COMMANDER IN CRISIS BATTLESUIT
-A deadly blend of strategic mastery, courage and technological
-might, each T’au Commander pilots their battlesuit and directs their
-armies with great skill. It is their honour to wield some of the most
-cutting-edge weapons the empire can provide, enabling them to fight
-all the harder for the Greater Good.
-KEYWORDS: Vehicle, Walker, Fly, Character, Battlesuit,
-Commander in Crisis Battlesuit
-FACTION KEYWORDS:
-T’au Empire
-COMMANDER IN ENFORCER BATTLESUIT
-KEYWORDS: Vehicle, Walker, Fly, Character, Battlesuit,
-Commander in Enforcer Battlesuit
-RANGED WEAPONS RANGE A BS S AP D
-Airbursting fragmentation projector
-[BLAST, INDIRECT FIRE]
-24" D6 3+ 3 0 1
-Burst cannon 18" 4 3+ 5 0 1
-Cyclic ion blaster – standard 18" 3 3+ 7 -1 1
-Cyclic ion blaster – overcharge [HAZARDOUS] 18" 3 3+ 8 -2 2
-Fusion blaster [MELTA 2] 12" 1 3+ 9 -4 D6
-Missile pod 30" 2 3+ 7 -1 2
-Plasma rifle 24" 1 3+ 8 -3 3
-T’au flamer [IGNORES COVER, TORRENT] 12" D6 N/A 4 0 1
-MELEE WEAPONS RANGE A WS S AP D
-Battlesuit fists Melee 3 4+ 5 0 1
+
+COMMANDER IN ENFORCER BATTLESUIT - 110
+M   T   SV  W   LD  OC
+8"  5   2+  6   7+  2
+
+KEYWORDS: Vehicle, Walker, Fly, Character, Battlesuit, Commander in Enforcer Battlesuit
+
 FACTION KEYWORDS:
 T’au Empire
 ABILITIES
 CORE: Deep Strike, Leader
-FACTION: For the Greater Good
+FACTION: Mark the Prey 0
 Enforcer Commander: While this model is leading a unit, each
 time a ranged attack targets that unit, worsen the Armour
 Penetration characteristic of that attack by 1.
+
 WARGEAR ABILITIES
 Battlesuit Support System: The bearer’s unit is eligible to
 shoot in a turn in which it Fell Back, but when doing so only
@@ -456,9 +397,20 @@ Shield Generator: The bearer has a 4+ invulnerable save.
 Weapon Support System: Each time the bearer makes a
 ranged attack, you can ignore any or all modifiers to the
 Hit roll.
-M T SV W LD OC
-8" 5 2+ 6 7+ 2
-Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+RANGED WEAPONS      RANGE   A   BS  S   AP  D   RULES
+ABFP                24"     D6  3+  4   0   1   [BLAST, INDIRECT FIRE]
+Burst cannon        18"     4   3+  5   0   1   [SUSTAINED HITS 2]
+CIB - Before selecting targets for this weapon, select one of its profiles to make attacks with.
+CIB - standard      18"     3   3+  4   -2  2   [LETHAL]
+CIB - overcharge    18"     3   3+  4   -2  2   [DEVASTATING WOUNDS, HAZARDOUS] 
+Fusion blaster      18"     1   3+  9   -4  D6  [MELTA 2]
+Missile pod         30"     2   3+  7   -1  2   [BLAST]
+Plasma rifle        24"     1   3+  8   -2  2   [RAPID FIRE 1]
+T’au flamer         12"     D6  N/A 4   0   1   [IGNORES COVER, TORRENT] 
+MELEE WEAPONS
+Battlesuit fists    Melee   3   4+  5   0   1
+
 WARGEAR OPTIONS
 ■ This model’s burst cannon can be replaced with
 one of the following:
@@ -469,6 +421,7 @@ one of the following:
 ◦ 1 missile pod
 ◦ 1 plasma rifle
 ◦ 1 shield generator*
+◦ 1 stimm injector*
 ◦ 1 T’au flamer
 ◦ 1 weapon support system*
 ■ This model can be equipped with up to two of
@@ -476,7 +429,7 @@ the following, and can take duplicates:
 ◦ 1 gun drone**
 ◦ 1 marker drone**
 ◦ 1 shield drone**
-■ This model can be equipped with up to three of
+■ This model can be equipped with up to two of
 the following, and can take duplicates:
 ◦ 1 airbursting fragmentation projector*
 ◦ 1 battlesuit support system*
@@ -486,12 +439,12 @@ the following, and can take duplicates:
 ◦ 1 missile pod
 ◦ 1 plasma rifle
 ◦ 1 shield generator*
+◦ 1 stimm injector*
 ◦ 1 T’au flamer
 ◦ 1 weapon support system*
-* This model cannot have duplicates of these pieces
-of wargear.
-** This drone’s rules can be found on the T’au Empire
-Drones card.
+* This model cannot have duplicates of these pieces of wargear.
+** This drone’s rules can be found on the T’au Empire Drones card.
+
 UNIT COMPOSITION
 ■ 1 Commander in Enforcer Battlesuit
 This model is equipped with: burst cannon; battlesuit fists.
@@ -529,7 +482,7 @@ FACTION KEYWORDS:
 T’au Empire
 ABILITIES
 CORE: Deep Strike, Leader
-FACTION: For the Greater Good
+FACTION: Mark the Prey
 Coldstar Commander: While this model is leading a unit,
 models in that unit have a Move characteristic of 12" and
 ranged weapons equipped by models in that unit have the
@@ -606,7 +559,7 @@ FACTION KEYWORDS:
 T’au Empire
 ABILITIES
 CORE: Leader
-FACTION: For the Greater Good
+FACTION: Mark the Prey
 Volley Fire: While this model is leading a unit, add 1 to the
 Attacks characteristic of ranged weapons equipped by
 models in that unit.
@@ -805,7 +758,7 @@ FACTION KEYWORDS:
 T’au Empire
 ABILITIES
 CORE: Infiltrators, Leader, Scouts 7"
-FACTION: For the Greater Good
+FACTION: Mark the Prey
 Structural Analyser: While this model is leading a unit, each
 time a model in that unit makes a ranged attack, add 1 to the
 Wound roll.
@@ -848,7 +801,7 @@ FACTION KEYWORDS:
 T’au Empire
 ABILITIES
 CORE: Deadly Demise D3
-FACTION: For the Greater Good
+FACTION: Mark the Prey
 Armour Hunter: Each time this model makes an attack that
 targets a Monster or Vehicle, add 1 to the Hit roll.
 Targeting Array: Each time this model is selected to shoot,
@@ -898,7 +851,7 @@ Close combat weapon Melee 1 5+ 3 0 1
 FACTION KEYWORDS:
 T’au Empire
 ABILITIES
-FACTION: For the Greater Good
+FACTION: Mark the Prey
 Cover Fire: While this unit is within range of an objective
 marker you control, each time you select it as the target of the
 Fire Overwatch Stratagem, hits are scored on unmodified Hit
@@ -948,7 +901,7 @@ Close combat weapon Melee 1 5+ 3 0 1
 FACTION KEYWORDS:
 T’au Empire
 ABILITIES
-FACTION: For the Greater Good
+FACTION: Mark the Prey
 Breach and Clear: Each time a model in this unit makes a
 ranged attack that targets an enemy unit within range of an
 objective marker, you can re-roll the Wound roll.
@@ -1044,24 +997,23 @@ KEYWORDS: Vehicle, Walker, Fly, Battlesuit, Crisis
 RANGED WEAPONS RANGE A BS S AP D
 Airbursting fragmentation projector
 [BLAST, INDIRECT FIRE]
-24" D6 4+ 3 0 1
-Burst cannon 18" 4 4+ 5 0 1
+24" D6 4+ 4 0 1
+Burst cannon 18" 6 4+ 5 0 1 
 Cyclic ion blaster – standard 18" 3 4+ 7 -1 1
 Cyclic ion blaster – overcharge [HAZARDOUS] 18" 3 4+ 8 -2 2
-Fusion blaster [MELTA 2] 12" 1 4+ 9 -4 D6
+Fusion blaster [MELTA 2] 18" 1 4+ 10 -4 D6
 Missile pod 30" 2 4+ 7 -1 2
 Plasma rifle 24" 1 4+ 8 -3 3
-T’au flamer [IGNORES COVER, TORRENT] 12" D6 N/A 4 0 1
+T’au flamer [IGNORES COVER, TORRENT] 12" D6+2 N/A 4 0 1
 MELEE WEAPONS RANGE A WS S AP D
 Battlesuit fists Melee 3 5+ 5 0 1
 FACTION KEYWORDS:
 T’au Empire
 ABILITIES
 CORE: Deep Strike
-FACTION: For the Greater Good
-Turbo-jets: Each time this unit Advances, do not make an
-Advance roll for it. Instead, until the end of the phase, add 6"
-to the Move characteristic of models in this unit.
+FACTION: Mark the Prey 0
+CRISIS Protocol AI: Once per turn, at the end of the Fight phase, this unit can shoot as if it were your Shooting phase. If it does, it may only select units it is in engagement range of as targets.
+
 WARGEAR ABILITIES
 Battlesuit Support System: The bearer’s unit is eligible to
 shoot in a turn in which it Fell Back, but when doing so only
@@ -1088,8 +1040,9 @@ cannon replaced with one of the following:
 ■ Any number of models can be equipped with up
 to two of the following, and can take duplicates:
 ◦ 1 gun drone**
-◦ 1 marker drone**
 ◦ 1 shield drone**
+■ Any number of models can be replace up to one gun drone or shield drone with 
+◦ 1 marker drone**
 ■ Any number of models can each be equipped
 with up to three of the following, and can
 take duplicates***:
@@ -1132,7 +1085,7 @@ FACTION KEYWORDS:
 T’au Empire
 ABILITIES
 CORE: Infiltrators, Stealth
-FACTION: For the Greater Good
+FACTION: Mark the Prey
 Forward Observers: Each time this unit is an Observer unit,
 until the end of the phase, each time a ranged attack is made
 by a model in their Guided unit that targets their Spotted unit,
@@ -1183,7 +1136,7 @@ FACTION KEYWORDS:
 T’au Empire
 ABILITIES
 CORE: Deadly Demise D3, Infiltrators, Lone Operative, Stealth,
-FACTION: For the Greater Good
+FACTION: Mark the Prey
 Stealth Drones: Twice per battle, after an attack has been
 allocated to this model, you can change the Damage
 characteristic of that attack to 0.
@@ -1227,7 +1180,7 @@ FACTION KEYWORDS:
 T’au Empire
 ABILITIES
 CORE: Infiltrators, Lone Operative, Stealth
-FACTION: For the Greater Good
+FACTION: Mark the Prey
 Precise Targeting: While this model is a Guided unit, each
 time it makes an attack that targets its Spotted unit, you can
 re-roll the Hit roll.
@@ -1270,7 +1223,7 @@ FACTION KEYWORDS:
 T’au Empire
 ABILITIES
 CORE: Scouts 7"
-FACTION: For the Greater Good
+FACTION: Mark the Prey
 Target Uploaded: Once per turn, when using the Greater Good
 ability, you can select this unit to be an Observer unit for a
 second time. When doing so, you can change which enemy
@@ -1329,7 +1282,7 @@ FACTION KEYWORDS:
 T’au Empire
 ABILITIES
 CORE: Deadly Demise 1, Scouts 9"
-FACTION: For the Greater Good
+FACTION: Mark the Prey
 Drone Harassment Tactics: At the end of your Movement
 phase, select one enemy unit within 12" of this unit; that
 enemy unit must take a Battle-shock test.
@@ -1425,7 +1378,7 @@ Crushing bulk Melee 3 5+ 6 0 1
 FACTION KEYWORDS:
 T’au Empire
 ABILITIES
-FACTION: For the Greater Good
+FACTION: Mark the Prey
 Advanced Armour: Models in this unit have the
 Feel No Pain 4+ ability against mortal wounds.
 WARGEAR ABILITIES
@@ -1481,7 +1434,7 @@ FACTION KEYWORDS:
 T’au Empire
 ABILITIES
 CORE: Deadly Demise D6
-FACTION: For the Greater Good
+FACTION: Mark the Prey
 Battlesuit Support System: The bearer is eligible to shoot in a
 turn in which it Fell Back.
 Nova Charge: Once per battle, in your Shooting phase,
@@ -1536,7 +1489,7 @@ FACTION KEYWORDS:
 T’au Empire
 ABILITIES
 CORE: Deadly Demise D3
-FACTION: For the Greater Good
+FACTION: Mark the Prey
 Armour Hunter: Each time this model makes an attack that
 targets a Monster or Vehicle, add 1 to the Hit roll.
 Targeting Array: Each time this model is selected to shoot,
@@ -1581,7 +1534,7 @@ FACTION KEYWORDS:
 T’au Empire
 ABILITIES
 CORE: Deadly Demise D3
-FACTION: For the Greater Good
+FACTION: Mark the Prey
 Aerial Scanners: Each time this model makes an attack with a
 ranged weapon that targets a unit that can Fly, you can re-roll
 the Hit roll.
@@ -1625,7 +1578,7 @@ FACTION KEYWORDS:
 T’au Empire
 ABILITIES
 CORE: Deadly Demise D3
-FACTION: For the Greater Good
+FACTION: Mark the Prey
 Rapid Deployment: Units can disembark from this Transport
 after it has Advanced. Units that do so count as having made
 a Normal move that phase, and cannot declare a charge in the
@@ -1669,7 +1622,7 @@ FACTION KEYWORDS:
 T’au Empire
 ABILITIES
 CORE: Deadly Demise D3
-FACTION: For the Greater Good
+FACTION: Mark the Prey
 Ground Strike Fighter: Each time this model makes a ranged
 attack that targets an enemy unit that cannot Fly, add 1 to
 the Hit roll.
@@ -1708,7 +1661,7 @@ FACTION KEYWORDS:
 T’au Empire
 ABILITIES
 CORE: Deadly Demise D3
-FACTION: For the Greater Good
+FACTION: Mark the Prey
 Pulse Bombs: Each time this model ends a Normal move, you
 can select one enemy unit it moved over during that move
 and roll six D6: for each 3+, that unit suffers 1 mortal wound.
@@ -1877,7 +1830,7 @@ FACTION KEYWORDS:
 T’au Empire
 ABILITIES
 CORE: Deadly Demise D6+2
-FACTION: For the Greater Good
+FACTION: Mark the Prey
 Heavy Walker: Each time this model makes a Normal,
 Advance or Fall Back move, it can move over models
 (excluding Titanic models) and terrain features that are 4" or
