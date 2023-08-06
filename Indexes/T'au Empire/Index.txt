@@ -1,50 +1,53 @@
 #T’AU EMPIRE
 ##ARMY RULE
 ###VALKYRIE'S MARK
-[i]When the Fire Caste wages war, its warriors are not organized in the disciplined regiments of the Imperium, nor like the sterile ranks of the soulless Necrons, or the ragtag warbands of the bloodthirsty Orks. Instead, Cadres are organized around specific goals, pulling from blood-bonded Fire Warriors to create a self-sufficient cell whose purpose is wholly bent to the completion of their objective. An individual Cadre is commonly organized by a number of Shas'vre who each lead the individual teams it's composed of. These Cadres are further directed by Shas'el, veterans in both the Philosophies of War and the study of their myriad enemies. With the tactical application of each Cadre assured, the Commanders of the T'au war machine -- Shas'o who direct the grand strategy of each Cadre's actions, like the wind behind a sail. And tying it all together, from the newest drone, to the freshest Shas'la, to the mightiest Commander, is the Markerlight.
+[i]When the Fire Caste wages war, its warriors are not organized in the disciplined regiments of the Imperium, nor the sterile ranks of the soulless Necrons, or the ragtag warbands of the bloodthirsty Orks. Instead, its Cadres are organized around specific goals, pulling from tight-knit groups of blood-bonded Fire Warriors and stand-out specialists to create a self-sufficient cell, whose purpose is wholly bent to the completion of their objective. An individual Cadre is commonly organized around a small number of Shas'vre who each lead the individual groups it's composed of. These Cadres are further directed by Shas'el, veterans in both the Philosophies of War and the study of their myriad enemies. With the tactical application of each Cadre assured, it falls to the Commanders of the T'au war machine to direct the grand strategy of the myriad Cadres, like the wind behind a sail. And tying it all together, from the newest drone fresh from the factory, to the mightiest Commander, is the Markerlight.
 
-The Markerlight is, like many T'au inspirations, both simple and profoundly utilitarian. The devices themselves resemble simple rangefinders, but T'au advances in drone and AI technology have augmented them beyond this simple appearance. Multispectrum lidars mounted in a stabilizing frame which actively counteracts disturbance and movement, identifies cloaked or concealed targets, and analyzes the structure and composition of whatever it's pointed at -- as well as providing telemetry data and other tactical feed directly to the Cadre's HUDs. If that were all, it would be a useful tool and nothing more. However, this data is all routed through the T'au Tactical Drone network, where AI and Cadre Command [/i]
-If your Army Faction is T'au Empire, when a unit from your army with this rule selects targets to shoot, you may have it hunt a single one of those targets. Until the end of the battle the shooting unit becomes a Hunter, and the target becomes its Prey. Select a number of other units up to the number shown in the Hunter's Markerlight ability from your army with this rule that have visibility to that Prey. Those units become Spotters for that Prey. Prey may have any number of Hunters and Spotters, but each Hunter and Spotter can only have one Prey at a time.
+The Markerlight is, like many T'au inspirations, deceptively simple in its presentation. The devices themselves resemble simple rangefinders, but advances in drone and AI technology have augmented them beyond appearances. Multispectrum lidars mounted in a stabilizing frame actively counteract disturbance and movement from the user, and compensate for movement from the target. AI helps identify cloaked or concealed targets, and to analyze the structure and composition of whatever the Markerlight is pointed at. The tactical uplink provides all of this, as well as telemetry data and other tactical feed, directly to the Cadre's HUDs, complete with target prioritization that any warrior can augment themselves on the fly with their own observations. 
 
-There may be multiple units that are Prey, Hunters, and Spotters, however a Hunter's attacks only gain Markerlight effects against its own Prey as described above. As well:
+If that were all, it would be a useful tool for squad operations and little more. However, this data is all routed through the T'au Tactical Drone network, where AI and Cadre Command are further able to gather, sort, and disseminate relevant information instantaneously across the battlefront. Troop movements and logistics trails become visible in real time, priority targets are highlighted with suggestions of orders filed immediately to approve or deny, millions of robotic minds aiding the Commanders to shape order from chaos.
+
+The Markerlight is the lens through which the T'au focus their might; it guides the Fire Caste to the T'au'va, and through it, to victory.[/i]
+
+If your Army Faction is T'au Empire, when a unit from your army with this rule selects targets to shoot, if it is not a Hunter, you may have it hunt a single one of those targets. Until the end of the battle the shooting unit becomes a Hunter and the target becomes its Prey. Select any number of other units from your army with this rule that have visibility to that Prey. Those units become Spotters for that Prey. Prey may have any number of Hunters and Spotters, but each Hunter and Spotter can only have one Prey at a time.
+
+- A Hunter is only a Hunter for its own Prey, and a Spotter is only a Spotter for its own Prey.
 - A Hunter may not be a Spotter, and a Spotter may not be a Hunter. 
 - If a Prey is destroyed, embarks on a transport, or is removed from the battlefield, it is no longer Prey. 
 - If a Prey has no Hunters, or has no Spotters, it is no longer Prey.
 - If a Hunter or Spotter has no Prey, it is no longer a Hunter or Spotter. 
 
-When a Hunter shoots its Prey, each of the Spotters for that Prey that can see it and are within 24" of it may contribute a number of Markerlight tokens equal to the number shown in their ability (e.g. a Spotter with the Markerlights 2 ability would contribute 2 Markerlight tokens). The combined total of these tokens from each Spotter is the Markerlight pool. Each Spotter may only contribute Markerlight tokens once per battle round. It may help to place a suitable token next to each Spotter unit to indicate whether it is able to contributed Markerlight tokens or not. If a Spotter is being led, add the Markerlights values of the attached units together for the purpose of determining how many Markerlight Tokens are contributed.
-
-To apply Markerlights effects to the Hunter's shooting, select any number of distinct Markerlights effects whose total cost is less than or equal to the number of Markerlight tokens in the Markerlight pool. The selected Markerlights effects are applied while the Hunter resolves its attacks against the Prey this phase.
+When a Prey is shot by its Hunter, each of that Prey's Spotters within 24" and that it is visible to contribute a number of Markerlight tokens equal to the number shown in their ability (e.g. a Spotter with the Markerlights 2 ability would contribute 2 Markerlight tokens). Then, select any number of distinct Markerlights effects whose total cost is less than or equal to the number of Markerlight tokens that were contributed. The selected Markerlights effects are applied while the Hunter resolves its attacks against the Prey this phase. Any unused Markerlight tokens are lost.
 
 ####Markerlights Effects
 
-#####Strip Cover
-Cost: 1 Markerlight Token
-The Marked unit loses and cannot gain the benefits of cover against the Guided unit's attacks.
-
 #####Fire for Suppression
 Cost: 2 Markerlight Tokens
-Just after the Guided unit finishes its shooting against the Marked unit, if one or more of those attacks scored a Hit the Marked unit must take a Battle Shock test. If the Marked unit suffered one or more unsaved wounds from those attacks, subtract 1 from the roll for that Battle Shock test as well.
+Just after the Guided unit finishes its shooting against the Marked unit, if one or more of those attacks scored a Hit the Marked unit must take a Battle Shock test.
+
+#####Strip Cover
+Cost: 2 Markerlight Token
+The Marked unit loses and cannot gain the benefits of cover against the Guided unit's attacks.
 
 #####Precision Telemetry
-Cost: 2 or 3 Markerlight Tokens
+Cost: 3 Markerlight Tokens
 Increase the Ballistics skill by 1 for the Guided unit's ranged weapons which target the Marked unit. 
-If 3 Markerlight Tokens were spent for this Markerlights effect, the Marked unit loses and cannot gain the benefits of Stealth against the Guided unit's attacks as well.
 
-#####Fusillade
-Cost: 2 or 4 Markerlight Tokens
+#####Paint the Target
+Cost: 4 Markerlight Tokens
+Contribute 4 Markerlight Tokens to the next Hunter 
+
+#####Guided Fusillade
+Cost: 4 Markerlight Tokens
 Each time the Guided unit makes a ranged attack against the Marked unit, it may re-roll a hit roll of 1.
-If 4 Markerlight Tokens were spent for this Markerlights effect, the Guided unit's ranged weapons gain [SUSTAINED HITS 1] when making attacks against the Marked unit as well. 
 
 #####Structural Analysis
-Cost: 2 or 4 Markerlight Tokens
+Cost: 4 Markerlight Tokens
 Each time the Guided unit makes a ranged attack against the Marked unit, it may re-roll a wound roll of 1.
-If 4 Markerlight Tokens were spent for this Markerlights effect, the Guided unit's ranged weapons gain [LETHAL HITS] when making attacks against the Marked unit as well
 
 #####Target Priority Override
-Cost: 3 or 5 Markerlight Tokens
+Cost: 5 Markerlight Tokens
 The Guided unit's ranged attacks hit on unmodified Hit rolls of 4+ during Overwatch against the Marked unit.
-If 5 Markerlight Tokens were spent for this Markerlights effect, the Guided unit's ranged weapons gain [PISTOL] until it finishes its attacks against the Marked unit as well.
 
 
 ##T’AU EMPIRE – PHILOSOPHIES OF WAR
@@ -54,7 +57,7 @@ If your Army Faction is T’au Empire, you can use this PHILOSOPHIES OF WAR Deta
 ####PHILOSOPHIES OF WAR
 At the start of the first battle round, before the start of the first player turn, you may select up to 3 units from your army and redeploy them. When doing so those units can be placed into Strategic Reserve, ignoring normal limitations. 
 
-Reserves units from your army cannot be destroyed while they are in reserves until the end of the fifth Battle Round. Beginning from the fourth Battle Round, reserves units from your army that are set up wholly within 6" of a battlefield edge ignore the normal restrictions on how close they may be set up to enemy units, and can be set up wholly outside of 3" from enemy units instead. 
+Units from your army cannot be destroyed while they are in reserves until the end of the fifth Battle Round. Beginning from the fourth Battle Round, reserves units from your army that are set up wholly within 6" of a battlefield edge ignore the normal restrictions on how close they may be set up to enemy units, and can be set up wholly outside of 3" from enemy units instead. 
 
 Units from your army that are on the battlefield at the beginning of the first Battle Round gain Scouts 6" and their weapons gain the [ASSAULT] ability until the end of the first turn in which you deploy a reserves unit.
 
@@ -67,7 +70,7 @@ If you are using the PHILOSOPHIES OF WAR Detachment rule, you can use these PHIL
 #####PHILOSOPHIES OF WAR – WARGEAR STRATAGEM
 WHEN: Just after a Battlesuit unit from your army suffers one or more unsaved wounds.
 TARGET: That T’au Empire Battlesuit unit.
-EFFECT: Until the end of the turn, models in the target unit with a Pilot Support System gain Feel No Pain 5+.
+EFFECT: Until the end of the turn, models in the target unit gain Feel No Pain 6+.
 
 ####STRIKE AND FADE - 1CP/2CP
 #####PHILOSOPHIES OF WAR – BATTLE TACTIC STRATAGEM
@@ -96,7 +99,7 @@ EFFECT: That enemy unit must immediately take a Battle-shock test. Subtract 2 fr
 
 ####THERE IS YOUR PREY, SHAS'LA! - 2CP
 #####PHILOSOPHIES OF WAR – BATTLE TACTIC STRATAGEM
-WHEN: Your opponent’s Charge phase, just after resolving a Fire Overwatch Stratagem.
+WHEN: Your opponent’s Charge phase, just after resolving the Fire Overwatch Stratagem.
 TARGET: One unit from your army that is within 24" of that charging unit and can see it.
 EFFECT: That unit immediately shoots the charging unit as if resolving the Fire Overwatch Stratagem.
 RESTRICTIONS: The unit resolving the initial Fire Overwatch Stratagem must be a Spotter of the charging unit. The target of this Stratagem must be a Hunter of the charging unit.
@@ -134,12 +137,12 @@ Twin pulse carbine  24"     2   4+  5   0   1   [GRENADE LAUNCHER]
 GRENADE LAUNCHER: The bearer gains the GRENADE keyword. If every model in the bearer's unit is equipped with a Pulse carbine, you may use the GRENADE Stratagem on it for 0CP even if you have already used that Stratagem on a different unit this phase. 
 
 ####MARKER DRONE
-Add 1 to the Markerlights value of the bearer's unit (e.g. a Unit with Markerlights 2 has a model equipped with a Marker Drone -- its Markerlights value becomes 3.)
+Add 1 to the total number of Markerlight tokens contributed to the bearer's Prey.
 
 ####MISSILE DRONE
 The bearer is equipped with the following ranged weapon:
 RANGED WEAPON       RANGE   A   BS  S   AP  D   RULES
-Missile pod         36"     2   5+  7   -1  2   [HEAVY]
+Missile pod         36"     2   5+  7   -2  2   [HEAVY]
 
 ####SNIPER DRONE
 The bearer is equipped with the following ranged weapon:
@@ -165,9 +168,9 @@ Burst cannon                18"     4       4+  5   0   1       [SUSTAINED HITS 
 
 Cyclic Ion Rifle            30"     3       4+  4   -2  1       [ION]
 
-Rail Rifle                  48"     1       4+  10  -3  3       [HEAVY, RAIL 1]
+Fusion blaster              18"     1       4+  10  -4  D6      [MELTA 2]
 
-Missile pod                 36"     2       4+  7   -1  2       [HEAVY]
+Missile pod                 36"     2       4+  7   -2  2       [HEAVY]
 
 Pulse blaster               12"     2       3+  6   -1  1       
 
@@ -177,11 +180,15 @@ Pulse pistol                12"     1       4+  5   0   1       [PISTOL]
 
 Pulse rifle                 36"     1       4+  5   -1  1       [RAPID FIRE 1]
 
+Rail Rifle                  48"     1       4+  10  -3  3       [HEAVY, RAIL 1]
+
 Seeker missile              72"     1       4+  14  -3  D6+1    [ONE-SHOT]
 
 Smart missile system        36"     4       4+  6   -1  1       [INDIRECT FIRE]
 
-GRENADE LAUNCHER: The bearer gains the GRENADE keyword. If every model in the bearer's unit is equipped with a Pulse carbine, you may use the GRENADE Stratagem on it for 0CP even if you have already used that Stratagem on a different unit this phase. 
+Some models may be equipped with "Twin" variants of these weapons. Such weapons use the appropriately named profile above but also have the [TWIN-LINKED] ability.
+
+GRENADE LAUNCHER: The bearer gains the GRENADE keyword. If every model in the bearer's unit has a weapon with this rule, increase the range of the GRENADE Stratagem to 24" and it may be used for 0CP when targeting the bearer's unit with it.
 
 ION: When rolling to Wound for an attack with this weapon, compare its Strength to the value of the Sv characteristic of models in the target unit instead of their Toughness. If models in the target unit have different Sv characteristics, use the worst one. 
 
@@ -192,17 +199,14 @@ NAME                        RANGE   A       BS  S   AP  D       RULES
 Battlesuit fists            Melee   2       5+  5   0   1
 Commander fists             Melee   3       4+  5   0   1
 
-Some models may be equipped with "Twin" variants of these weapons. Such weapons use the appropriately named profile above but also have the [TWIN-LINKED] ability.
-
 ####Fusion Munitions System         
 NAME                        RANGE   A       BS  S   AP  D       RULES
 Fusion Munitions System - Before selecting targets for this weapon, select one of its profiles to make attacks with.
 - Disrupted                 18"     2       4+  6   -1  1       [MELTA 1]
 - Synchronized              6"      1       4+  12  -4  D3      [MELTA 2]
 MELEE WEAPONS               RANGE   A       BS  S   AP  D       RULES
-Fusion Munitions System - Before selecting targets for this weapon, select one of its profiles to make attacks with.
-- Disrupted                 Melee   4       5+  6   -1  2
-- Synchronized              Melee   2       5+  12  -4  D3+2
+Fusion Munitions System
+- Fusion Blade              Melee   3       4+  9   -2  2
 
 ####Ion Munitions System
 RANGED WEAPONS   
@@ -211,12 +215,11 @@ Ion Munitions System - Before selecting targets for this weapon, select one of i
 - Cyclic                    18"     3       4+  4   -2  1       [ION]
 - Phased                    18"     1       4+  4   -2  3       [ION]
 
-
 ####Plasma Munitions System
 RANGED WEAPONS    
 NAME                        RANGE   A       BS  S   AP  D       RULES
 Plasma Munitions System - Before selecting targets for this weapon, select one of its profiles to make attacks with.
-- Incinerator               12"     D3+3    -   4   0   1       [IGNORES COVER, TORRENT]
+- Blastwave                 12"     D3+3    -   4   0   1       [IGNORES COVER, TORRENT]
 - Burstfire                 18"     4       4+  6   0   1       [SUSTAINED HITS 2]
 - Solid sabot               24"     1       4+  8   -3  3
 
@@ -224,17 +227,17 @@ Plasma Munitions System - Before selecting targets for this weapon, select one o
 RANGED WEAPONS      
 NAME                        RANGE   A       BS  S   AP  D       RULES
 Warhead Munitions System - Before selecting targets for this weapon, select one of its profiles to make attacks with.
-- ABFP                      24"     D6      4+  4   0   1       [BLAST, INDIRECT FIRE]
-- Missile pod               36"     2       4+  7   -1  2       [HEAVY]
+- Smart Missile System      36"     4       4+  6   -1  1       [INDIRECT FIRE]
+- Missile pod               36"     2       4+  7   -2  2       [HEAVY]
 
 ####Support Systems
 Battlesuit Support System: The bearer’s unit is eligible to shoot in a turn in which it Fell Back, but when doing so only models equipped with this wargear can make ranged attacks.
 
-Pilot Support System: When the bearer is destroyed, before removing it from the battlefield, roll one D6 and add 1 to the result for every enemy model within 3" of the bearer. On a 3+, enemy units within 3" of the bearer each suffer 1 mortal wound. On a 6+, they each suffer 2 mortal wounds instead.
+Pilot Support System: When the bearer is destroyed, before removing it from the battlefield, each enemy unit within 3" of the bearer suffers 1 mortal wound.
 
 Shield Generator: The bearer has a 4+ invulnerable save. 
 
-Weapon Support System: The bearer's unit may contribute one of its own Markerlight tokens to the Mark
+Weapon Support System: The bearer may ignore any or all modifiers to its hit roll when making ranged attacks.
 
 
 ##UNIT DATA SHEETS 
@@ -242,7 +245,7 @@ Weapon Support System: The bearer's unit may contribute one of its own Markerlig
 COMMANDER SHADOWSUN - 150
 INVULNERABLE SAVE 5+
 M   T   SV  W   LD  OC
-10" 4   3+  7   6+  2
+10" 4   3+  5   6+  2
 KEYWORDS: Infantry, Fly, Character, Epic Hero, Battlesuit, Commander Shadowsun
 FACTION KEYWORDS: T’au Empire
 
@@ -262,9 +265,9 @@ Advanced Guardian Drone: Each time a ranged attack targets the bearer, subtract 
 Command-link Drone (Aura): Once per turn, if a friendly T'au Empire unit within 6" would become Battle-shocked, it doesn't. You cannot use this ability while this unit is Battle-shocked.
 
 RANGED WEAPONS      RANGE   A   BS  S   AP  D   RULES
-Flechette launcher  18"     5   2+  3   0   1
-HE fusion blaster   24"     1   2+  10  -4  D6 [ANTI-VEHICLE 4+, MELTA 2]
-Light missile pod   24"     2   2+  7   0   2  [BLAST]
+Flechette launcher  18"     D6  2+  3   0   1  [BLAST]
+HE fusion blaster   24"     1   2+  10  -4  D6 [MELTA 2]
+Light missile pod   24"     2   2+  7   1   2  [HAEVY]
 Pulse pistol        12"     1   3+  5   0   1  [PISTOL]
 MELEE WEAPONS
 Battlesuit fists    Melee   3   4+  5   0   1
@@ -285,7 +288,7 @@ UNIT COMPOSITION
 COMMANDER FARSIGHT - 175
 INVULNERABLE SAVE 4+
 M   T   SV  W   LD  OC
-10" 5   3+  7   6+  2
+10" 5   3+  6   6+  2
 KEYWORDS: Vehicle, Walker, Fly, Character, Epic Hero, Battlesuit, Commander Farsight
 FACTION KEYWORDS: T’au Empire
 
@@ -293,18 +296,18 @@ ABILITIES
 CORE: Deep Strike, Leader
 FACTION: Markerlights 0
 
-Way of the Short Blade: Each time a model in this unit makes an attack that targets an enemy unit within 9", add 1 to the Wound roll. 
-Aggressive Offensive: When this model is selected to fight, each time it makes an attack you can re-roll the Hit roll and you can re-roll the Wound roll.
+Way of the Short Blade: Each time a model in this unit makes an attack that targets its Prey within 9", add 1 to the Wound roll. 
+Aggressive Offensive: Each time an attack from this unit destroys its Prey, it may declare a charge that turn even if it had advanced or fallen back.
 
 WARGEAR ABILITIES
-Dawn Blade: This model regains a lost wound each time an enemy model is destroyed by an attack from its Dawn Blade.
+Dawn Blade: This model regains a missing wound each time an enemy model is destroyed by an attack from its Dawn Blade.
 
 RANGED WEAPONS      RANGE   A   BS  S   AP  D   RULES
-HI Plasma Rifle     24"     2   2+  8   2   3   [RAPID FIRE 2]
+HE Plasma Rifle     30"     1   2+  8   -3  3   [RAPID FIRE 1]
 MELEE WEAPONS
 Dawn Blade - Before selecting targets for this weapon, select one of its profiles to make attacks with.
 Dawn Blade - Strike Melee   4   2+  10  -2  3
-Dawn Blade - Sweep  Melee   8   2   6   -1  1
+Dawn Blade - Sweep  Melee   8   2+  6   -1  1
 
 
 WARGEAR OPTIONS
@@ -328,9 +331,8 @@ ABILITIES
 
 CORE: Deep Strike, Leader
 FACTION: Markerlights 0
-Crisis Commander: This unit is eligible to shoot in a turn in which it Fell Back. 
-Fire Caste's Finest: This 
-
+Crisis Commander: While this unit is a Hunter, its weapons gain the [SUSTAIN HITS 1] ability against its Prey.
+Fire Caste's Finest: Each time this model shoots or fights, you may make an additional attack with one of its wepaons. 
 
 WARGEAR OPTIONS
 ■ This model’s burst cannon can be replaced with
